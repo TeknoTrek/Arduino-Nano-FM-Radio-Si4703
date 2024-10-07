@@ -57,8 +57,6 @@ To run this project, you'll need:
 
 <img align="center"  alt="PCB" src="https://raw.githubusercontent.com/TeknoTrek/Arduino-Nano-FM-Radio-Si4703/refs/heads/main/images/Arduino-fm-radio-si4703-3d-model-pcb.jpg">
 
-<img align="center"  alt="PCB" src="https://raw.githubusercontent.com/TeknoTrek/Arduino-Nano-FM-Radio-Si4703/refs/heads/main/images/si4703-fm-radio.png">
-
 A 3D model of the assembled PCB is included to give you a better idea of how the final product will look.
 
 ## License
