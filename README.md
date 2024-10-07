@@ -35,12 +35,20 @@ To run this project, you'll need:
 3. Connect the components as per the circuit schematic.
 4. Power the device, and use the rotary encoder to tune the radio frequency.
 
+## Watch the Build Process
+
+You can watch the full build process of this FM Radio on my YouTube channel [**Teknotrek**](https://www.youtube.com/@TeknoTrek). Click the link below to see how the circuit is assembled, soldered, and tested:
+
+[Watch on YouTube](https://www.youtube.com/watch?v=up5PCYIprFo)
+
+
 ## Project Images
 
 - 3D models of the components and the assembled circuit.
 - Front and back views of the PCB.
 - Real images of the completed project.
-- 
+
+  
 ## Circuit Schematic
 
 ![FM Transmitter Schematic](https://raw.githubusercontent.com/TeknoTrek/Arduino-Nano-FM-Radio-Si4703/refs/heads/main/images/Arduino-fm-radio.jpg)
