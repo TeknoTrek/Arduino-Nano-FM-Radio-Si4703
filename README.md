@@ -40,6 +40,26 @@ To run this project, you'll need:
 - 3D models of the components and the assembled circuit.
 - Front and back views of the PCB.
 - Real images of the completed project.
+- 
+## Circuit Schematic
+
+![FM Transmitter Schematic](https://raw.githubusercontent.com/TeknoTrek/Arduino-Nano-FM-Radio-Si4703/refs/heads/main/images/Arduino-fm-radio.jpg)
+
+## PCB Layout
+
+![PCB Layout](https://raw.githubusercontent.com/TeknoTrek/Arduino-Nano-FM-Radio-Si4703/refs/heads/main/images/Arduino-fm-radio-pcb.jpg)
+
+## 3D Model
+
+![3D Model](https://raw.githubusercontent.com/TeknoTrek/Arduino-Nano-FM-Radio-Si4703/refs/heads/main/images/Arduino-fm-radio-3d-model.jpg)
+
+<img align="center"  alt="PCB 3D Model" src="https://raw.githubusercontent.com/TeknoTrek/Arduino-Nano-FM-Radio-Si4703/refs/heads/main/images/Arduino-fm-radio-si4703-3d-model-pcb-2.jpg">
+
+<img align="center"  alt="PCB" src="https://raw.githubusercontent.com/TeknoTrek/Arduino-Nano-FM-Radio-Si4703/refs/heads/main/images/Arduino-fm-radio-si4703-3d-model-pcb.jpg">
+
+<img align="center"  alt="PCB" src="https://raw.githubusercontent.com/TeknoTrek/Arduino-Nano-FM-Radio-Si4703/refs/heads/main/images/si4703-fm-radio.png">
+
+A 3D model of the assembled PCB is included to give you a better idea of how the final product will look.
 
 ## License
 
